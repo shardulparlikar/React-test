@@ -1,0 +1,32 @@
+.card {
+  height: 8rem;
+  width: 20rem;
+  background-color: aquamarine;
+  margin-bottom: 4rem;
+  border-radius: 5%;
+  border: 1px solid aquamarine;
+}
+
+.direction-flex {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-top: 2rem;
+  height: 1rem;
+}
+
+.font-class {
+  margin-left: 6rem;
+  height: 6rem;
+}
+
+.margin-top-bottom {
+  margin: 0px;
+  text-align: left;
+  margin-bottom: 4px;
+}
+
+.margin-bottom-12 {
+  margin: 0px;
+  text-align: left;
+}
